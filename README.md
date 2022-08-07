@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project in [Odin Project's curriculum](https://www.theodinproject.com/lessons/foundations-recipes). It is a basic HTML site with a unordered list with 3 links that lead to their specific Bulgarian recipes. They have the same structure. They include a h1, image right below the h1, 1 h2 with unorganised list, and if needed I have added h3 with another unorganised list and second h2 with organised list. I will certainly update it in the future with CSS and JS. I hope that you like what you are seeing :sparkling_heart:.
